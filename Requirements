@@ -1,0 +1,10 @@
+Modules that need to be installed:
+  (i) Tensorflow
+  (ii) LightGBM
+  (iii) VGG16
+  (iv) OpenCV
+  (v) Numpy
+  (vi) Pandas
+  (vii) Matplotlib
+  (viii) scikit-learn
+  (ix) joblib
